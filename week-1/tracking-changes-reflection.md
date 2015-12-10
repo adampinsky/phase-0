@@ -12,17 +12,17 @@ Untracked is when a new file has been added to the repository and yet to be comm
 *Write a handy cheatsheet of the commands you need to commit your changes?*
  
  `Git Command` ||  Discription
-=================================
+===
 `git checkout <`branch`>`  ||  Moves you to the branch name passed in as argument and makes it youe working staging area. If no branch exists matching the given name, a new one is created. The `master` branch is the root branch by default.
----
+***
 `git add <`file`>`  ||  tells git that you want stage `<`file`>` for commit.
----
+***
 `git status`  ||  List files that are either `Untracked`, `Unstaged`, `Staged`.
----
+***
 `git commit -m "message"`  ||  Finalize all changes and save to current branch.  If `-m "message"` is used then `message` is added to the branch as a comment/discription of the changes made.
----
+***
 `git push <`source`> <`branch`>`  ||  Send the commited branchup to the remote repository.
----
+***
  
 *What is a pull request and how do you create and merge one?*
 
