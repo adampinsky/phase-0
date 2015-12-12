@@ -1,0 +1,31 @@
+![site-map](http://github.com/adampinsky/phase-0/blob/week-2/imgs/site-map.jpg)
+
+What are the 6 Phases of Web Design?
+---
+1. Information Gathering
+2. Planning
+3. Design
+4. Development
+5. Testing and Delivery
+6. Maintanince
+
+What is your site's primary goal or purpose? 
+---
+To showcase my experience as a programmer and provide contact information.
+
+What kind of content will your site feature?
+---
+Headshot, Navigation Bar, Contact Links, Image Links, Gallery, Biographical Text.
+
+What is your target audience's interests and how do you see your site addressing them?
+---
+To gain insight into who I am as a programmer as well as what types of projects motivate me.
+
+What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
+---
+What are the main things someone should know about design and user experience?
+---
+What is user experience design and why is it valuable? 
+---
+Which parts of the challenge did you find tedious?
+---
