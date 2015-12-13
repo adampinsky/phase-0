@@ -1,4 +1,4 @@
-![site map](/imgs/site-map.jpg)
+![site map](https://raw.githubusercontent.com/adampinsky/phase-0/master/week-2/imgs/site-map.jpg)
 
 
 What are the 6 Phases of Web Design?
