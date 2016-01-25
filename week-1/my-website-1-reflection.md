@@ -1,0 +1,1 @@
+https://github.com/adampinsky/adampinsky.github.io.git
