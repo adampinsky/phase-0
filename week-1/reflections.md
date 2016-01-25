@@ -16,27 +16,27 @@ OK, so, I can't be the only one who's intimidated by the prospect of using the c
 
 So, alright, maybe I'm being harsh, a touch hasty, and a little bit over dramatic. I'll concede that my negative reflections stem from inexperience and my own ignorance. That's why I'm here after all, to learn the hard stuff the hard way.   :-)   
 
-pwd - print working directory: prints the directory that your           currently working in.
+pwd - print working directory: prints the directory that your currently working in.
 
-ls - list: prints a list of all the files and directories included      within the current working directory.
+ls - list: prints a list of all the files and directories included within the current working directory.
 
-mv - move: tells the interpreter to relocate the given file to the      specified directory.
+mv - move: tells the interpreter to relocate the given file to the specified directory.
 
-cd - change directory: navigates you directly to the specified           directory.
+cd - change directory: navigates you directly to the specified directory.
 
-../ - parent:  references the file path before the current working          directory.
+../ - parent:  references the file path before the current working directory.
 
-touch - when no matching file exists and new empty file is created,         otherwise the file is opened, saved, and closed.
+touch - when no matching file exists and new empty file is created, otherwise the file is opened, saved, and closed.
 
 mkdir - make directory: creates a new directory in place.
 
-less - allows you to view and navigate through large files without      changing them.
+less - allows you to view and navigate through large files without changing them.
 
-rmdir - remove directory: deletes a directory and the files within      it.
+rmdir - remove directory: deletes a directory and the files within it.
 
 rm - remove: deletes the file specified.
 
-help - provides you a list of the commands currently available to       you.
+help - provides you a list of the commands currently available to you.
 
 
 
@@ -47,9 +47,9 @@ help - provides you a list of the commands currently available to       you.
 To create a new, blank repository from scratch, you will:
 
 => First, navigate to your GitHub profile page
-=> Next, locate and select the "+"-sign near the upper right-hand         corner of the profile.
+=> Next, locate and select the "+"-sign near the upper right-hand corner of the profile.
 => Select "New Repository" from the dropdown menu.
-=> Fill in the New Repository Form with the necessary information.         (title, licence, etc.)
+=> Fill in the New Repository Form with the necessary information (title, licence, etc.).
 => When ready, click "Create Repository".
 => Wave your hands in the air like you just don't care!
 
