@@ -1,0 +1,83 @@
+html {
+	background-color: white;
+	color: #000080;
+}
+
+address {
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+}
+
+#company {
+	font-size: 125%;
+}
+
+#company span {
+	font-size: 150%;
+}
+
+#page {
+	font-size: 110%;
+}
+
+a {
+	color: #800080;
+}
+
+a:visited {
+	color: #ff0000;
+}
+
+ul {
+	width: auto;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+li {
+	float: left;
+	width: 50%;
+}
+
+li p {
+	font-size: 75%;
+}
+
+li p a {
+	font-size: 125%;
+	
+}
+
+section {
+	width: 100%;
+	border-bottom: 1px solid black;
+	clear: both;
+}
+
+#geico {
+	border-top: 1px solid black;
+	text-align: center;
+	font-size: 75%;
+}
+
+#logo {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-top: 20px;
+	padding-bottom: 0;
+}
+
+#geico p {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+footer p {
+	font-size: 75%;
+}
+
+footer p span {
+	font-weight: bold;
+}
