@@ -81,3 +81,20 @@ footer p {
 footer p span {
 	font-weight: bold;
 }
+
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+The order in which the links appear in your HTML is the order in which thy are applied.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+I leared that you can display an ul in 2 columns buy setting the lis
+to float: left and width: 50%. It was pretty difficult to get my list to 
+space evenly.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+color for the  font-color, font-style for italics, font-weight for bold
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+*/
