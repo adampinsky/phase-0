@@ -2,7 +2,7 @@
 
 ## ![4.2.2 Simple String Methods](https://github.com/adampinsky/phase-0/blob/master/week-4/simple-string.rb)
 
-## ![Local Variables and Basic Arithmetical Operations]()
+## ![Local Variables and Basic Arithmetical Operations](https://github.com/adampinsky/phase-0/blob/master/week-4/basic-math.rb)
 
 What does puts do?
 ---
