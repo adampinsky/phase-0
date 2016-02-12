@@ -1,3 +1,9 @@
+## ![4.2.1 Defining Variables](https://github.com/adampinsky/phase-0/blob/master/week-4/defining-variable.rb)
+
+## ![4.2.2 Simple String Methods]()
+
+## ![Local Variables and Basic Arithmetical Operations]()
+
 What does puts do?
 ---
 _puts_ will print the output to the screen WITH a new line. The special value of _nil_
