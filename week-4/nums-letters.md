@@ -1,6 +1,6 @@
 ## ![4.2.1 Defining Variables](https://github.com/adampinsky/phase-0/blob/master/week-4/defining-variable.rb)
 
-## ![4.2.2 Simple String Methods]()
+## ![4.2.2 Simple String Methods](https://github.com/adampinsky/phase-0/blob/master/week-4/simple-string.rb)
 
 ## ![Local Variables and Basic Arithmetical Operations]()
 
