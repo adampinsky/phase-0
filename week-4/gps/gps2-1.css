@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background: red;
+  width: 100%;
+  height: 10%;
+  margin: 10px 15px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.column-1 {
+   background: green;
+   width: 40%;
+   top: 10%;
+   margin: 5px;
+   dispay: inline-block;
+   float: left;
+  }
+
+.column-2 { 
+   background: yellow;
+   width: 40%;
+   display: inline-block;
+   float: right;
+   margin: 5px;
+}
+
+footer {
+  background: blue;
+  width:100%;
+  clear: both;
+}
