@@ -27,12 +27,12 @@ How do you define a local variable?
 		And, 'value' is the data to be referanced by the given 'name'.
 
 How do you define a method?
-   ============================================================
-   ||def name(arg1, arg2, ...)                                    ||
-   ||	block of code that does something with arg1 and arg2 || 
-   ||	return value                                         ||
-   ||end                                                     ||
-   ============================================================
+   =======================================
+   ||def name(arg1, arg2, ...)          ||
+   ||	do something with arg1 and arg2 || 
+   ||	return value                    ||
+   ||end                                ||
+   =======================================
    		Where 'name' is a string beginning with an '_' or any lowercase letter (a-z).
    		The special characters '!', '?', and '=' may be used as the last letter, but only with spicific circumstances.
 		Arg1, arg2, ... are the any number of optional arguments being passed into the scope of the method.
