@@ -16,8 +16,8 @@ puts "Impossible! You don't look a day over " + (age.to_i - 1).to_s + "!"
 
 =begin
 
-
-
+4.3.1 Return a Formated Address (https://github.com/adampinsky/phase-0/blob/master/week-4/address/my_solution.rb)
+4.3.2 Defining Math Method (https://github.com/adampinsky/phase-0/blob/master/week-4/math/my_solution.rb)
 
 How do you define a local variable?
    =================
