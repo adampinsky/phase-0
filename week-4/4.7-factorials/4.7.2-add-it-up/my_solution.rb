@@ -36,19 +36,21 @@ end
 # make sure all pseudocode is commented out!
 # Input: array of strings
 # Output: sentence consisting of words from the given array
-# Steps to solve the problem.
+# capitalize the first item of within the array.
 
 
 # 5. sentence_maker initial solution
-def sentence_maker(array_2)
-	sentence = array_2[0].capitalize
-	index = 1
-	while index < array_2.length do
-		sentence = sentence + " " + array_2[index].to_s
-		index += 1
-		end
-	return sentence + "."
-end
+# def sentence_maker(array_2)
+# 	sentence = array_2[0].capitalize
+# 	index = 1
+# 	while index < array_2.length do
+# 		sentence = sentence + " " + array_2[index].to_s
+# 		index += 1
+# 		end
+# 	return sentence + "."
+# end
 
 # 6. sentence_maker refactored solution
-
+def sentence_maker(array_2)
+	return array_2.join(" ").capitalize + "."
+end
