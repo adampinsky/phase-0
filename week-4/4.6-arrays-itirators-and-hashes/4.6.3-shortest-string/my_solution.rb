@@ -13,13 +13,13 @@
 #Your Solution Below
 def shortest_string(list_of_words)
 	len = list_of_words.length
-	shortest_word = list_of_words[0]
-	shortest_word_len = shortest_word.length
 	if len == 0
 		return nil
 	elsif len == 1
-		return shortest_word
+		return list_of_words[0]
 	else
+		shortest_word = list_of_words[0]
+		shortest_word_len = shortest_word.length
 		list_of_words.each do |word|
 			if word.length < shortest_word_len
 				shortest_word = word
